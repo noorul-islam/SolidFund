@@ -1,0 +1,26 @@
+289c4cfd4fa6e63068ecf6fbc051b700e55704bffb7711c57013b5733829829e
+
+
+Gulf of Mannar Campaign Contract
+0xa223a4D6e2117D455d9aF960fbC5d42809A3838F
+
+Education Campaign Contract
+0xa223a4D6e2117D455d9aF960fbC5d42809A3838F
+
+Health Campaign Contract
+0xa223a4D6e2117D455d9aF960fbC5d42809A3838F
+
+IPFS
+-----
+PROJECT ID
+2E7OLN4Htw1duNfOC8Kac7ANNB2
+
+API KEY SECRET
+bccfa89b7334d3a59fd7f3816d3d60e7
+
+IPFS API ENDPOINT
+https://ipfs.infura.io:5001
+
+DEDICATED GATEWAY SUBDOMAIN
+https://solidfund.infura-ipfs.io
+
